@@ -14,13 +14,16 @@
     "url": "https://github.com/jvilk/bfs-browserify-test/issues"
   },
   "devDependencies": {
-    "bfs-buffer": "0.0.1",
-    "bfs-fs": "0.0.1",
-    "bfs-path": "0.0.1",
-    "bfs-process": "0.0.1",
-    "browserfs": "~0.4",
+    "async": "^1.5.0",
+    "bfs-buffer": "^0.1.1",
+    "bfs-path": "^0.1.1",
+    "bfs-process": "^0.1.1",
+    "browserfs": "^0.5.1",
+    "browserify": "^12.0.1",
     "grunt": "^0.4.5",
-    "grunt-browserify": "^3.8.0"
+    "grunt-browserify": "^3.8.0",
+    "pako": "^0.2.8",
+    "underscore": "^1.8.3"
   },
   "homepage": "https://github.com/jvilk/bfs-browserify-test#readme"
 }
